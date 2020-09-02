@@ -1,8 +1,8 @@
- /*  
- *      DeveloperName(): Bui Nguyen Anh Khoi
- *      GithubName(): https://github.com/AnhKhoi05072006
- *      Facebook(): https://www.facebook.com/DEVFBK
- */
+""" 
+        DeveloperName(): Bui Nguyen Anh Khoi
+        GithubName(): https://github.com/AnhKhoi05072006
+        Facebook(): https://www.facebook.com/DEVFBK
+"""
  
 Answer: 5/6
 
